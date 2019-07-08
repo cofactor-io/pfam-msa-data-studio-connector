@@ -35,7 +35,7 @@ function getConfig() {
         .newInfo()
         .setId('instructions')
         .setText(
-            'Enter the accession number to fetch the alignments.'
+            'Enter the protein family accession number to fetch the alignments.'
         );
 
     config

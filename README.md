@@ -14,5 +14,5 @@ If you run into any issues with this connector, please [file an issue].
 
 [Pfam]: https://pfam.xfam.org/
 [Google Data Studio]: https://datastudio.google.com/
-[file an issue]: https://github.com/cofactor-io/pfam-msa-datastudio-connector/issues/new
+[file an issue]: https://github.com/cofactor-io/pfam-msa-data-studio-connector/issues/new
 [sequence logo]: https://en.wikipedia.org/wiki/Sequence_logo

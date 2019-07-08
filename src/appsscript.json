@@ -6,7 +6,7 @@
         "companyUrl": "https://cofactor.io",
         "addonUrl": "https://github.com/cofactor-io/pfam-msa-data-studio-connector#readme",
         "supportUrl": "https://github.com/cofactor-io/pfam-msa-data-studio-connector/issues",
-        "description": "This connector fetches the multiple sequence alignment data for Pfam protein domains.",
+        "description": "This connector fetches multiple sequence alignment data for Pfam protein domains.",
         "shortDescription": "Fetch multiple sequence alignment data from Pfam.",
         "sources": [
             "PFAM"
