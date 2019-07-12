@@ -16,6 +16,11 @@
         ],
         "feeType": [
             "FREE"
-        ]
+        ],
+        "urlFetchWhitelist": [
+            "https://pfam.xfam.org/family"
+        ],
+        "privacyPolicyUrl": "https://cofactor.io/privacy",
+        "termsOfServiceUrl": "https://cofactor.io/terms"
     }
 }
